@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on different simple proyects to get me started.
 - 📫 How to reach me, follow my work and give me any inputs! 
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I've graduated over 30 years ago from Software Engineer. I have lots of experience but trying to keep up with Tech.
+- ⚡ Fun fact: I've graduated over 30 years ago as a Software Engineer, I hold Bachelor's and Master's degree. I have lots of experience but also trying to keep up with Tech.
 
 <!---
 autismoAI/autismoAI is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
